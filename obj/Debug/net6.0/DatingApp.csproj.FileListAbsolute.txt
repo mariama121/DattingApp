@@ -80,3 +80,10 @@ D:\projects\Dating App\DatingApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System
 D:\projects\Dating App\DatingApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 D:\projects\Dating App\DatingApp\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
 D:\projects\Dating App\DatingApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\projects\Dating App\DatingApp\bin\Debug\net6.0\client\angular.json
+D:\projects\Dating App\DatingApp\bin\Debug\net6.0\client\package.json
+D:\projects\Dating App\DatingApp\bin\Debug\net6.0\client\tsconfig.app.json
+D:\projects\Dating App\DatingApp\bin\Debug\net6.0\client\tsconfig.json
+D:\projects\Dating App\DatingApp\bin\Debug\net6.0\client\tsconfig.spec.json
+D:\projects\Dating App\DatingApp\bin\Debug\net6.0\client\package-lock.json
+D:\projects\Dating App\DatingApp\bin\Debug\net6.0\package-lock.json
